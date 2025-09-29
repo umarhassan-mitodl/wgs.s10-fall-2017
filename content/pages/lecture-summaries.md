@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains the topics and lecture summaries for the course. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -68,7 +70,7 @@ Pioneers & Laurels
 {{< tdopen >}}
 Who are some pioneering—and award-winning—STEM women that every historian of science should know? How can we celebrate Marie Curie’s accomplishments while avoiding pitfalls of the “hero effect”? How do awards recognize and validate women in the STEM fields? What problems/inequities exist in the way female scientists and engineers are and have been honored?
 
-Guest speaker: {{% resource_link "bf77ed5f-12dd-4663-9c61-316715dbbdab" "Jen Myronuk" %}}, filmmaker, will present her film _{{% resource_link "e117c8d8-b71b-45cd-879e-b517aba70b57" "Humanity Needs Dreamers: A Visit with Marie Curie" %}}_. 
+Guest speaker: [Jen Myronuk](https://filmmakerscollab.org/members/profile/jen-myronuk/), filmmaker, will present her film _[Humanity Needs Dreamers: A Visit with Marie Curie](http://humanityneedsdreamers.org/)_. 
 
 
 {{< tdclose >}}
@@ -88,9 +90,9 @@ In what key ways have women contributed to the astronomical sciences? How have w
 
 Guest speakers:
 
-Lindsay Smith, Curator of the Astronomical Photographic Plate Collection at the {{% resource_link "cdefc811-5ed8-4b6a-b0fb-7fe9a1f60413" "Harvard College Observatory" %}}
+Lindsay Smith, Curator of the Astronomical Photographic Plate Collection at the [Harvard College Observatory](https://www.cfa.harvard.edu/hco)
 
-{{% resource_link "88962ca6-4cd3-40e0-a1cb-cd9b4579b9a3" "Dava Sobel" %}}, author, who will discuss her book, _{{% resource_link "5c0010e8-ea09-4c68-933a-6cefb39b298f" "The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars" %}}_. 
+[Dava Sobel](http://www.davasobel.com/), author, who will discuss her book, _[The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars](https://www.penguinrandomhouse.com/books/315726/the-glass-universe-by-dava-sobel/9780143111344/)_. 
 
 Field trip to the Harvard Observatory
 
@@ -170,7 +172,7 @@ STEM Women in Wikipedia/Edit-a-thon
 
 What is the representation of women in Wikipedia, both on the pages and in the editorship? How is Wikipedia like a microcosm of the larger tech world in terms of women’s inclusion? Why is representation on Wikipedia so important? What are some efforts attempting to close the gaps in STEM fields?
 
-Guest speaker: {{% resource_link "5a24e7ce-24d0-4f58-815a-0fc2ef47143c" "Phoebe Ayers" %}}, MIT librarian, will answer questions about Wikipedia and assist in the crafting of new articles. 
+Guest speaker: [Phoebe Ayers](http://phoebeayers.info/), MIT librarian, will answer questions about Wikipedia and assist in the crafting of new articles. 
 
 
 {{< tdclose >}}
@@ -194,7 +196,7 @@ Guest Speaker Debbie Douglas
 
 Who are some of the most notable/influential women to have taught, researched, and studied at MIT?
 
-Guest Speaker: Debbie Douglas, Director of Collections & Curator, Science & Technology at the {{% resource_link "83458cfd-bf77-4860-bbd4-cc36f0abada8" "MIT Muesum" %}}
+Guest Speaker: Debbie Douglas, Director of Collections & Curator, Science & Technology at the [MIT Muesum](https://mitmuseum.mit.edu/)
 
 Field trip to the MIT Museum
 
@@ -220,7 +222,7 @@ Guest Speaker Prof. Sheila Widnall
 
 How have scientific and engineering professions changed for women in the past century? Where do problems remain? What can academia and industry improve on in terms of diversity and inclusion? How have events such as Ada Lovelace Day and the Intl. Day of Women in STEM affected public perceptions of women in the STEM fields?
 
-Guest speaker: {{% resource_link "90e38df5-4072-4e7b-8ac3-6bce957a5c64" "Sheila Widnall" %}}, MIT Institute Professor, Department of Aeronautics and Astronautics
+Guest speaker: [Sheila Widnall](http://aeroastro.mit.edu/faculty-research/faculty-list/sheila-widnall), MIT Institute Professor, Department of Aeronautics and Astronautics
 
 
 {{< tdclose >}}

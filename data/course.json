@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Science"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "ff355f43-3ccd-3720-1009-cad0cee0bf2c",
+  "instructors": {
+    "content": [
+      "21cf1bf1-d099-b1b7-77c9-e82ca0defb4c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a96965e0-508a-6732-1a7e-b034cf908958",
+    "website": "wgs-s10-history-of-women-in-science-and-engineering-fall-2017"
+  },
+  "course_title": "History of Women in Science and Engineering",
+  "hide_download": true,
+  "course_description": "This course provides a basic overview of the history of women in science, technology, engineering, and mathematics (STEM). Students will learn about specific contributions of women across a variety of disciplines and will gain a broad perspective on how these contributions played a larger role in the advancement of human knowledge and technological achievement. The class will also grapple with how both historic and modern biases within the STEM disciplines, as well as in representations of women and girls in media and popular culture, can affect outcomes in these areas.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.S10",
+  "course_image_thumbnail": {
+    "content": "65be8710-69f7-f190-ffd8-ed1362eb3651",
+    "website": "wgs-s10-history-of-women-in-science-and-engineering-fall-2017"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "5c67efb1-41d3-46c4-bac6-05b735c6b4f1",
+  "site_short_id": "wgs.s10-fall-2017",
+  "site_url_path": "courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017",
+  "title": "Course Metadata"
+}

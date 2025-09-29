@@ -86,7 +86,7 @@ Final paper (10–15 pages) or project
 Required Books
 --------------
 
-{{% resource_link "a77f27fd-03f4-4ea6-b41d-82ad456a4ffa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Abbate, Janet. _Recoding Gender: Participation in Computing._ The MIT Press, 2012. ISBN: 9780262534536.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262018067) Abbate, Janet. _Recoding Gender: Participation in Computing._ The MIT Press, 2012. ISBN: 9780262534536.
 
  Fine, Cordelia. _Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference_. W.W. Norton & Company, 2011. ISBN: 9780393340242.
 

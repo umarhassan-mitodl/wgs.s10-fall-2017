@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 51a4897a-af62-d705-35be-c0018d9152b3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 91f0fa7e-9bde-2d6a-638a-710fed0b1cb8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 2f9ce0b0-8e18-0118-5be3-a6f579526f40
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
+  weight: 30
+- identifier: 2abc0ee5-03c2-607c-370d-a969a19a2301
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: b2b077e0-3045-0e2a-e1f1-8e2ef0929641
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
